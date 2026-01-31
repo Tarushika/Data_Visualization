@@ -1,4 +1,5 @@
 📊 Data Visualization Using Python
+
 🔹 Project Overview
 
 • This project demonstrates various data visualization techniques using Python.
@@ -7,10 +8,10 @@
 
 🎯 Objectives
 
-✔ Explore different visualization methods
-✔ Understand data distribution and correlation
-✔ Improve data analysis skills
-✔ Learn practical use of visualization libraries
+Explore different visualization methods
+Understand data distribution and correlation
+Improve data analysis skills
+Learn practical use of visualization libraries
 
 🛠️ Tools & Technologies
 
@@ -24,11 +25,11 @@
 
 📈 Visualizations Included
 
-✔ Normal Curve – Shows data distribution
-✔ Density & Contour Plot – Displays data concentration between variables
-✔ Scatter Plot – Shows correlation and relationship between variables
-✔ Histogram – Represents frequency distribution of data
-✔ 3D Scatter Plot – Visualizes relationship among three variables
+Normal Curve – Shows data distribution
+Density & Contour Plot – Displays data concentration between variables
+Scatter Plot – Shows correlation and relationship between variables
+Histogram – Represents frequency distribution of data
+3D Scatter Plot – Visualizes relationship among three variables
 
 ⚙️ Project Workflow
 
@@ -40,10 +41,10 @@
 
 ✨ Key Features
 
-✔ Automatic numeric data selection
-✔ Multiple graph visualization methods
-✔ Easy and clear implementation
-✔ Helps in better data understanding
+Automatic numeric data selection
+Multiple graph visualization methods
+Easy and clear implementation
+Helps in better data understanding
 
 🚀 Learning Outcome
 
