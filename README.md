@@ -1,17 +1,16 @@
 📊 Data Visualization Using Python
 
-🔹 Project Overview
+🔹 Project Overview:-
+This project demonstrates various data visualization techniques using Python. It helps in analyzing numeric data and understanding patterns, trends, and relationships. The project is designed to be simple and beginner-friendly.
 
-• This project demonstrates various data visualization techniques using Python.
-• It helps in analyzing numeric data and understanding patterns, trends, and relationships.
-• The project is designed to be simple and beginner-friendly.
 
-🎯 Objectives
+🎯 Objectives:-
 
-Explore different visualization methods
-Understand data distribution and correlation
-Improve data analysis skills
-Learn practical use of visualization libraries
+Explore different visualization methods.
+Understand data distribution and correlation.
+Improve data analysis skills.
+Learn practical use of visualization libraries.
+
 
 🛠️ Tools & Technologies
 
@@ -23,15 +22,17 @@ Learn practical use of visualization libraries
 • SciPy
 • 3D Plotting Toolkit
 
+
 📈 Visualizations Included
 
-Normal Curve – Shows data distribution
-Density & Contour Plot – Displays data concentration between variables
-Scatter Plot – Shows correlation and relationship between variables
-Histogram – Represents frequency distribution of data
-3D Scatter Plot – Visualizes relationship among three variables
+1. Normal Curve – Shows data distribution.
+2. Density & Contour Plot – Displays data concentration between variables.
+3. Scatter Plot – Shows correlation and relationship between variables.
+4. Histogram – Represents frequency distribution of data.
+5. 3D Scatter Plot – Visualizes relationship among three variables.
 
-⚙️ Project Workflow
+
+⚙️ Project Workflow:-
 
 • Import libraries
 • Load dataset
@@ -39,12 +40,14 @@ Histogram – Represents frequency distribution of data
 • Apply visualization techniques
 • Generate graphical outputs
 
+
 ✨ Key Features
 
-Automatic numeric data selection
-Multiple graph visualization methods
-Easy and clear implementation
-Helps in better data understanding
+1. Automatic numeric data selection
+2. Multiple graph visualization methods
+3. Easy and clear implementation
+4. Helps in better data understanding
+
 
 🚀 Learning Outcome
 
