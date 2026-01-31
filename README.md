@@ -1,26 +1,27 @@
-📊 Data Visualization Using Python
+📊 Data Visualization Using Python.
 
 🔹 Project Overview:-
+
 This project demonstrates various data visualization techniques using Python. It helps in analyzing numeric data and understanding patterns, trends, and relationships. The project is designed to be simple and beginner-friendly.
 
 
 🎯 Objectives:-
 
-Explore different visualization methods.
-Understand data distribution and correlation.
-Improve data analysis skills.
-Learn practical use of visualization libraries.
+1. Explore different visualization methods.
+2. Understand data distribution and correlation.
+3. Improve data analysis skills.
+4. Learn practical use of visualization libraries.
 
 
 🛠️ Tools & Technologies
 
-• Python
-• Pandas
-• NumPy
-• Matplotlib
-• Seaborn
-• SciPy
-• 3D Plotting Toolkit
+1. Python
+2. Pandas
+3. NumPy
+4. Matplotlib
+5. Seaborn
+6. SciPy
+7. 3D Plotting Toolkit
 
 
 📈 Visualizations Included
